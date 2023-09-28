@@ -1391,7 +1391,7 @@ url("./fonts/bootstrap-icons.woff?2820a3852bdb9a5832199cc61cec4e65") format("wof
 .bi-safe2::before { content: "\f653"; }
 .bi-sd-card-fill::before { content: "\f654"; }
 .bi-sd-card::before { content: "\f655"; }
-.bi-skype::before { content: "\f656"; }
+
 .bi-slash-lg::before { content: "\f657"; }
 .bi-translate::before { content: "\f658"; }
 .bi-x-lg::before { content: "\f659"; }
